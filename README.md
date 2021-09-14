@@ -63,3 +63,8 @@ A base de dados fornecida pela Alura log apresenta os seguintes arquivos .csv.
 </ul>
 
 <h3> Dashboard </h3>
+
+<h4> Aba Geral </h4>
+<p align="center">
+  <img src="/figuras/screenshot-dashboard/dashboard-aba-geral.png" width="850" title="dashboard-aba-geral">
+</p>
