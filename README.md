@@ -1,9 +1,11 @@
 <h1> Alura Challenge BI </h1>
 <h2> Week 01: Logistics Challenge - Alura Log </h2>
 
-The manager of the logistics departmente at Alura log is facing some changes due to the increased demand caused by the corona virus pandemic. He wants to maintain service quality, so he needs to constantly monitor his department's metrics to make the best decisions. To help with this challenge, I created a dashboard for logistics with some important metrics for the area.
+> The manager of the logistics departmente at Alura log is facing some changes due to the increased demand caused by the corona virus pandemic. He wants to maintain service quality, so he needs to constantly monitor his department's metrics to make the best decisions. To help with this challenge, I created a dashboard for logistics with some important metrics for the area.
+
 
 <h3> Database </h3>
+<hr>
 The database provided by Alura log has the following .csv files:
 
 <h4> Tabela Pedidos </h4>
@@ -146,6 +148,27 @@ Contais product inventory by month.
   </table>
 </div>  
 
-<h3> Metrics </h3>
+<h3> Metrics </h3><hr>
+
+
+  <dl>
+  <dt> Entregas no prazo </dt>
+  <dd>- On-time deliveries </dd>
+  <dt> Entregas atrasadas </dt>
+  <dd>- Delayed deliveries </dd>
+  <dt> Veículos disponíveis para entrega </dt>
+  <dd>- Vehicles available for deliver </dd>
+  <dt> S2D </dt>
+  <dd>- Ship to door</dd>
+  <dt> Índice de ocorrências por estado </dt>
+  <dd>- Rate of occurrences by state</dd>
+  <dt> Média do estoque </dt>
+  <dd>- Stock average</dd>
+  <dt> Estoque disponível por Categoria </dt>
+  <dd>- Stock available by Category</dd>
+
+</dl>
+
 <h3> Dashboard </h3>
 <h3> Link </h3>
+

@@ -66,8 +66,9 @@ A base de dados fornecida pela Alura log apresenta os seguintes arquivos .csv.
 
 <h4> Aba Geral </h4>
 <p align="center">
-  <img src="/figuras/screenshot-dashboard/dashboard-aba-geral.png" width="850" title="dashboard-aba-geral">
+  <img src="figuras/screenshot-dashboard/dashboard-aba-geral.png" width="850" title="dashboard-aba-geral">
 </p>
 
 <h3> Link do Dashboard </h3>
 https://app.powerbi.com/groups/me/reports/1fee4adf-6a11-416b-84d2-ee6151dea11d?ctid=11e71783-c2ea-4fee-8318-7122f18d7534&pbi_source=linkShare
+
