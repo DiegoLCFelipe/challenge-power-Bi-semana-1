@@ -169,6 +169,10 @@ Contais product inventory by month.
 
 </dl>
 
-<h3> Dashboard </h3>
-<h3> Link </h3>
+<h3> Dashboard </h3> <hr>
+<p align="center">
+  <img src="figuras\screenshot-semana-1.png" width="850" title="dashboard-aba-geral">
+</p>
 
+<h3> Link </h3> <hr>
+https://app.powerbi.com/view?r=eyJrIjoiMTkyMmVlZjUtNjM2OS00ODVjLWEyYTEtNDg5MDUxZTNmNDFhIiwidCI6IjExZTcxNzgzLWMyZWEtNGZlZS04MzE4LTcxMjJmMThkNzUzNCJ9&pageName=ReportSection
